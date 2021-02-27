@@ -1,6 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Thasadith&display=swap');
 
 body{
-    background-color: rgb(84, 17, 116);
+    background-color: rgb(168, 236, 152);
     font-family: 'Thasadith', sans-serif;;
+
 }
+div {
+    color : #00ff00;
+    background-color: yellow;    
+    font-size: 50px;
+}
+.bg-color-black{
+    background-color:black;
+    font-size: 25px;
+    color: aqua;
+}
+.bg-color-red{
+    background-color:green;
+    font-size: 25px;
+    color: rebeccapurple;
+}
+.bg-border-1-radius-5{
+    background-color: #ed710a;
+    border:1px solid #ededed;
+    border-radius: 100px;
+    margin: 10px; 
+    padding: 50px;   
+}
+.Holy-Fuck{
+    color : rgb(72, 72, 72);
+    background-color: #ff0000;
+    border:1px solid #442626;
+    border-radius: 50px;
+    margin: 10px; 
+    padding: 50px; 
